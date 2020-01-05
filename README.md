@@ -1,6 +1,6 @@
 # Kotlin
 >Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-* - Martin Flower*
+  *Martin Flower*
 ## What is this Repo ?
 This repo consists of code dumps authored by me based on concepts of Kotlin.
 ## Why have these files been uploaded ?
