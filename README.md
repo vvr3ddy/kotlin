@@ -10,14 +10,14 @@
 >Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.
 
  ```Kotlin
- import internet.disclaimer.*
+ import vvr.disclaimer.*
  fun disclaimer() : String {
        var str1 = """ This code dump is my first author work.
                       I am the sole author for this work. If anyother author is involved,
                       I shall credit them in the code.
                   """ 
        println("Hello World, This is VVR with Kotlin as my weapon.")
-       println(
+       println("The Repo has been organized Folderwise for all concepts")
  }
  ```
 ## What is this Repo ?
