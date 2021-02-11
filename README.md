@@ -1,4 +1,5 @@
 # Kotlin
+![Kotlin Logo](https://logos-download.com/wp-content/uploads/2016/10/Kotlin_logo_wordmark.png)
 
 *Martin Flower*
 >Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
