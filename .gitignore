@@ -1,0 +1,34 @@
+# Kotlin Build
+build/
+out/
+*.kt.metadata
+*.kotlin_metadata
+*.kotlin_module
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+gradle-wrapper.properties
+gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Other common directories/files you might want to exclude
+# For example, if you have a directory for notes or scratch work
+notes/
+scratch/
+Kotlin_CrashCourse/Lab\ Book/Week\ 01/*.jar
+*.bak
+
+# If you have a directory for solutions that you don't want to push to Git
+solutions/
